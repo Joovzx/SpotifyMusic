@@ -6,3 +6,4 @@ SPOTIFY_CLIENT_ID= -> you can get it from : https://developer.spotify.com/dashbo
 DISCORD_TOKEN= -> you can get it from : https://discord.com/developers/applications
 ```
 
+### After that, run the bot.
